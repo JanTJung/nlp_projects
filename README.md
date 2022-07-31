@@ -3,7 +3,7 @@
 This repository contains the projects that have been worked on during the Erasmus Mundus program.
 
 ## 1. Online Wikipedia 
--> *Intent_slot_identification.ipynb*
+-> *Online_wikipedia_machine_translation_Q_A.ipynb*
 
 Module, which answers questions given in any language based on Wikipedia Articles.
 Combines modules of machine translation, entity recognition, question-answering.
