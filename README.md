@@ -2,12 +2,15 @@
 
 This repository contains the projects that have been worked on during the Erasmus Mundus program.
 
-## 1. Online Wikipedia
+## 1. Online Wikipedia 
+-> *Intent_slot_identification.ipynb*
 
 Module, which answers questions given in any language based on Wikipedia Articles.
 Combines modules of machine translation, entity recognition, question-answering.
-More details given in the the poster.
+
+More details given in the the *Online_Wikipedia_MT_Q.A..pdf*.
 
 ## 2. Entity recognition and slot filling
+-> *Intent_slot_identification.ipynb*
 
 Implementation of an AI, which learns to caegorize words and to categorize thereon the intent of the question.
